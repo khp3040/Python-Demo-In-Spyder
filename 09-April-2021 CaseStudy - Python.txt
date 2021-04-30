@@ -1,0 +1,25 @@
+Problem Statement:
+Online Shopping
+
+SuperStore is launching an online portal for shopping where it will post products for sale, and customers can view the products and place an order against them.
+It currently maintains the inventory in the form of text files in CSV format.
+Develop a search and order feature for them. Customers can search for a product they want to buy, and order the product if they like.
+Specifications:
+• Information about products is stored in text files in CSV format.
+• Each file contains information about products for a particular seller with following parameters:
+• Product code
+• Name
+• Brand
+• Price
+• Stock available.
+• The application should take a product name as input.
+• Search the files for matching records for the product.
+• Display the brand and price for the matching products.
+• The user can then select a brand of their choice. Take the brand name and the quantity user wants to buy of that product/brand as input.
+• Check the quantity available for the selected brand and place an order if quantity is available.
+• Display an appropriate message in case quantity ordered is not available.
+• Display the Order details with the total amount to be paid by the Customer on the console.
+•
+• Handle appropriate exceptions with meaningful messages whenever required. Custom exception not required in this scenario.
+• No update to files is required after order is placed.
+• No User Interface and database are needed.

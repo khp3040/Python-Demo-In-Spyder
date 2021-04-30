@@ -1,0 +1,8 @@
+code,name,brand,price,stockAvailable
+"1",Computer,Apple,"200","12"
+"2",Computer,Microsoft,"300","2"
+"3",Mobile,Apple,"300","5"
+"4",Mobile,Nokia,"300","7"
+"5",Tablet,Apple,"200","8"
+"6",Tablet,Samsung,"150","9"
+"7",Mobile,Samsung,"140","18"
